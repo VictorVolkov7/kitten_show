@@ -1,0 +1,80 @@
+[
+  {
+    "model": "kittens.kitten",
+    "pk": 1,
+    "fields": {
+      "name": "Пушок",
+      "age_year": null,
+      "age_month": 7,
+      "breed": 1,
+      "color": "Бело-серый",
+      "description": "Сдержан, независим и самодостаточен.",
+      "owner": 1
+    }
+  },
+  {
+    "model": "kittens.kitten",
+    "pk": 2,
+    "fields": {
+      "name": "Поплавок",
+      "age_year": 1,
+      "age_month": 5,
+      "breed": 1,
+      "color": "Пепельный",
+      "description": "Игривый, непоседливый, хулиган.",
+      "owner": 1
+    }
+  },
+  {
+    "model": "kittens.kitten",
+    "pk": 3,
+    "fields": {
+      "name": "Чарльз-Герцог-Джуан-ДжекиЧан",
+      "age_year": 3,
+      "age_month": null,
+      "breed": 2,
+      "color": "Чёрно-серо-коричневый",
+      "description": "Ну просто король всех котов.",
+      "owner": 2
+    }
+  },
+  {
+    "model": "kittens.kitten",
+    "pk": 4,
+    "fields": {
+      "name": "Соня",
+      "age_year": 1,
+      "age_month": 1,
+      "breed": 2,
+      "color": "Золотистый",
+      "description": "В любой непонятной ситуации спит.",
+      "owner": 2
+    }
+  },
+  {
+    "model": "kittens.kitten",
+    "pk": 5,
+    "fields": {
+      "name": "Беляш",
+      "age_year": 4,
+      "age_month": 7,
+      "breed": 1,
+      "color": "Чёрно-белый",
+      "description": "",
+      "owner": 3
+    }
+  },
+  {
+    "model": "kittens.kitten",
+    "pk": 6,
+    "fields": {
+      "name": "Котабыч",
+      "age_year": 9,
+      "age_month": 2,
+      "breed": 2,
+      "color": "Волшебный",
+      "description": "Кот мудрец.",
+      "owner": 3
+    }
+  }
+]

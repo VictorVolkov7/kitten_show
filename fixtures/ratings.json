@@ -1,0 +1,47 @@
+[
+  {
+    "model": "ratings.rating",
+    "pk": 1,
+    "fields": {
+      "rating": 5,
+      "kitten": 1,
+      "user": 2
+    }
+  },
+  {
+    "model": "ratings.rating",
+    "pk": 2,
+    "fields": {
+      "rating": 5,
+      "kitten": 1,
+      "user": 3
+    }
+  },
+  {
+    "model": "ratings.rating",
+    "pk": 3,
+    "fields": {
+      "rating": 5,
+      "kitten": 4,
+      "user": 1
+    }
+  },
+  {
+    "model": "ratings.rating",
+    "pk": 4,
+    "fields": {
+      "rating": 5,
+      "kitten": 4,
+      "user": 3
+    }
+  },
+    {
+    "model": "ratings.rating",
+    "pk": 5,
+    "fields": {
+      "rating": 5,
+      "kitten": 5,
+      "user": 1
+    }
+  }
+]
